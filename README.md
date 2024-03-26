@@ -1,2 +1,2 @@
 # MCSF-Net
-Underwater Image Enhancement via Multi-Color Space Fusion
+The project code will be released upon acceptance.
