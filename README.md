@@ -1,2 +1,2 @@
 # MCSF-Net
-The project code will be released upon acceptance.
+The code and dataset for MCSF-Net will be released upon acceptance.
